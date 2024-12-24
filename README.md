@@ -27,6 +27,6 @@
 :white_check_mark: <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="logo-express" />
 <br>
 <br>
-[![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgsandre)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgsandre)](https://github.com/maxgsandre)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgsandre)](https://github.com/anuraghazra/github-readme-stats)
